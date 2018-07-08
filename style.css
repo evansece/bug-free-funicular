@@ -1,0 +1,31 @@
+*{margin: 0; 
+    padding: 0;}
+#headp {font-size: 50px;
+}
+body {
+    margin-left: 200px;
+    background-color:#C0C0C0;
+}
+.div{
+    width:100%;
+    font-size: 15px;
+    float:left;
+    display: block;
+    margin-bottom:10px;
+}
+
+ li{float: left;
+    list-style-type: none;
+    padding-top: 5px;
+    padding-right:30px;
+}
+#content {
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+}
+.left{
+    font-weight: bold;
+font-size: 20px;
+padding-bottom: 20px;
+}
+span{font-weight: bold;}
